@@ -1,0 +1,1 @@
+1- How can i handele uploading a picture field in the instructors model
